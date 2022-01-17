@@ -1,23 +1,4 @@
-$bg1:red;
-$bg2:black;
-$color1: blue;
-$color2: white;
-$font-size1: 2em;
-$font-size2:20px;
-
-@mixin estilo ($bg,$color,$font-size) {
-    background-color: $bg;
-    color:$color;
-    font-size:$font-size
-    
-}
-.menu{
-    @include estilo($bg1,$color1,$font-size2)
-}
-.contenedor{
-    @include estilo($bg2,$color2 ,$font-size2)
-}
-
+@import "cambios";
 @import "body" ;
  @import "header" ;
  @import "main" ;
