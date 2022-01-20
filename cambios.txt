@@ -1,0 +1,6 @@
+Se coloco Seo y keywords.
+cambio tamaño de fuente.
+cambio color de fuente.
+cambio color de backgrounds.
+se modifico el menu y contenedor.
+mixin.
